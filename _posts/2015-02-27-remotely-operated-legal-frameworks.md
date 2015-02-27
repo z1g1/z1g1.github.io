@@ -2,7 +2,7 @@
 layout: post
 title: "Remotely Operated Legal Frameworks"
 date: 2015-02-27
-image: privateer-logo.png 
+image: MQ-9_Reaper_taxis.jpg
 tags: Drones, Backdoors, Legal Frameworks
 ---
 At a [New America Foundation conference](http://www.newamerica.org/new-america/cybersecurity-for-a-new-america/) about information security, which took place on Monday 2015/02/23, NSA Director Mike Rogers took to the stage to try and sell the tech community at large on the idea that we should add in software backdoors to our products to allow for authorized government surveillance.  However, Director Rogers did not want to use the phrase backdoor since he considers that phrase ["kind of shady"](https://www.eff.org/deeplinks/2015/02/eff-nsa-if-rule-law-important-start-acting-it).  Uses of Newspeak aside he wants the community to consider his and the FBI's requests not to focus on the flaws this would add to software products and cryptographic systems but on the legal framework which will be put in place to allow only the, capital G, "Good Guys" to harness these backdoors for official use.  
