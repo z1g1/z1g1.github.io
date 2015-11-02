@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Create a LinkedIn Account for UB Faculty Senate and Professional Staff Senate Members"
-date: 2014-08-19
+date: 2015-11-01
 image: faculty-sentate-logo.jpg
 tags: UB Faculty Senate, UB Professional Staff Senate, Social Media, Twitter
 ---
